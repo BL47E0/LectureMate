@@ -1,4 +1,4 @@
-#LectureMate — A Free Multimodal AI Lecture Assistant
+# LectureMate — A Free Multimodal AI Lecture Assistant
 
 *Turn your lectures into intelligent study material. 100% free, 100% offline, no API keys.*
 
